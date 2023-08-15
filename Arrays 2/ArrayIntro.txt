@@ -1,0 +1,8 @@
+Array is a data structure which stores a collection of homogenous type of data.
+Zero base indexing.
+Contiguous memory allocation.
+
+Declaration : int arr[] = new int[size];
+Declaration can be done using array literals.
+
+Memory allocation : data is stored in hexadecimal format.
